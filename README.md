@@ -8,6 +8,6 @@
 * two
 * three
 * test2repo *
-*** bold ***
+bold 
 `` test2repo ``
 ``` test2repo ```
